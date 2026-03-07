@@ -1,7 +1,7 @@
 ## Evelyn Anita
 **Estudando HTML e CSS**
 
-##Para me aperrfeiçoar estou praticando com os desafios do site https://www.frontendmentor.io/
+## Para me aperrfeiçoar estou praticando com os desafios do site https://www.frontendmentor.io/
 
  ## Estou aprendendo 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
