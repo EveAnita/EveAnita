@@ -8,5 +8,5 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-![EveAnita's GitHub stats]()
+![EveAnita's GitHub stats](https://github-readme-stats.vercel.app/api?username=EveAnita&show_icons=true&theme=dracula)
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=EveAnita&layout=compact&theme=dracula&width=500em)
